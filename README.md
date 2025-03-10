@@ -1,2 +1,2 @@
 # merge
-ketto szemely fejleszt szeretnenk naprakeszre tartani
+2 szemely fejleszt es a fejlesztest szeretnenk naprakeszen tartani:)
